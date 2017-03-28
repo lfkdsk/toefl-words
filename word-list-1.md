@@ -92,7 +92,7 @@
 | belie     | v 掩饰 ／ 证明什么为假 | lie                    |
 | belittle  | v 鄙视          | little 小看              |
 | beguile   | v 欺骗          | guile - guilt 罪        |
-| besige    | v 包围          | sige 包围、围攻             |
+| besiege   | v 包围          | siege 包围、围攻            |
 | beleaguer | v 包围围攻 （联合起来） | league - league mamber |
 | guileless | a 诚实的         | less 形容词否定后缀           |
 |           |               |                        |
@@ -110,7 +110,7 @@
 
 ### blasphemy
 
-| blasphemy | n 亵渎 （对神） |                                          |
+| blasphemy | n 亵渎 （对神） | blame + phem fame                        |
 | --------- | --------- | :--------------------------------------- |
 | blaspheme | v 亵渎      | fame - pheme / blast - blas - blow up 炸毁 |
 | pro'fane  | v n 亵渎    | 泼粪                                       |
@@ -120,7 +120,7 @@
 | blatant  | a 喧嚣的 明显的   | noisy \| blow - bla 吹起来的 |
 | -------- | ----------- | ------------------------ |
 | flagrant | a  臭名昭著的显著的 |                          |
-| overt    | a 拿开之后      |                          |
+| overt    | a ～         |                          |
 |          |             |                          |
 | blatant  | a 明显的       | blow                     |
 | bloated  | a 肿胀的       | blow swell 肿胀的           |
