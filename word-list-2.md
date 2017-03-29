@@ -67,38 +67,58 @@
 
 ## 5.2 cardinal- cession
 
-| Word         | Means       | Usage                                    |
-| ------------ | ----------- | ---------------------------------------- |
-| cardinal     | a 主要的／重要的   | card - cord =》 heart =》 core             |
-| minor        | a 次要的       | min 小                                    |
-| ‘cordial     | a 热心的 热情的   | inal - ial（。。。的）                         |
-| cardiac      | 心脏的         | ac <a.>                                  |
-| cardiologist | 心脏病学家       | logist - 研究什么什么的人                        |
-| concord      | 和谐          | con                                      |
-| discord      | 不和谐         | dis                                      |
-|              |             |                                          |
-| carn - 肉     |             |                                          |
-| carnage      | n 残杀 大屠杀    | age - \| carn - flesh 肉                  |
-| omnivore     | n 杂食动物      | omni - 全部                                |
-| carnal       | a 肉体的 肉欲的   | carn - al                                |
-| carcass      | n 尸体（动物的尸体） | ass - 屁股 ／ 驴 = 牲口 \| 驴的肉                 |
-| reincarnate  | v 转世／化身     | rein - car                               |
-|              |             |                                          |
-| 杀            | 屠杀          |                                          |
-| slay         |             | s + lay                                  |
-| slaughter    | 屠杀／屠宰（牲口）   | s + laughter                             |
-| massacre     | n／v 大屠杀     | mass 大量 acre 英亩                          |
-| assassinate  | v 刺杀        | ass ass inate/ assassin 刺客               |
-| execute      | v 处死        | execute sb for sth \| ex + cut（拖出去砍了）    |
-| lynch        | n ／v 处以私刑   |                                          |
-| holocaust    | n 大屠杀       | whole - hole \| caust - burn 烧 （烤死他）     |
-|              |             |                                          |
-| cataclysm    | n 灾难 大洪水    | lys = releases                           |
-| disaster     | ～           |                                          |
-| catastrophe  | ～           | cata = 1. down 2. fully \| astro 星星\| phe |
-|              |             | catalogue 说                              |
-| calamity     | ～           | c + alarm + ity                          |
-|              |             |                                          |
-|              |             |                                          |
-|              |             |                                          |
+| Word                    | Means       | Usage                                    |
+| ----------------------- | ----------- | ---------------------------------------- |
+| cardinal                | a 主要的／重要的   | card - cord =》 heart =》 core             |
+| minor                   | a 次要的       | min 小                                    |
+| ‘cordial                | a 热心的 热情的   | inal - ial（。。。的）                         |
+| cardiac                 | 心脏的         | ac <a.>                                  |
+| cardiologist            | 心脏病学家       | logist - 研究什么什么的人                        |
+| concord                 | 和谐          | con                                      |
+| discord                 | 不和谐         | dis                                      |
+|                         |             |                                          |
+| carn - 肉                |             |                                          |
+| carnage                 | n 残杀 大屠杀    | age - \| carn - flesh 肉                  |
+| omnivore                | n 杂食动物      | omni - 全部                                |
+| carnal                  | a 肉体的 肉欲的   | carn - al                                |
+| carcass                 | n 尸体（动物的尸体） | ass - 屁股 ／ 驴 = 牲口 \| 驴的肉                 |
+| reincarnate             | v 转世／化身     | rein - car                               |
+|                         |             |                                          |
+| 杀                       | 屠杀          |                                          |
+| slay                    |             | s + lay                                  |
+| slaughter               | 屠杀／屠宰（牲口）   | s + laughter                             |
+| massacre                | n／v 大屠杀     | mass 大量 acre 英亩                          |
+| assassinate             | v 刺杀        | ass ass inate/ assassin 刺客               |
+| execute                 | v 处死        | execute sb for sth \| ex + cut（拖出去砍了）    |
+| lynch                   | n ／v 处以私刑   |                                          |
+| holocaust               | n 大屠杀       | whole - hole \| caust - burn 烧 （烤死他）     |
+|                         |             |                                          |
+| cata = 1. down 2. fully |             |                                          |
+| cataclysm               | n 灾难 大洪水    | 完全释放能量\| lys = releases                  |
+| disaster                | ～           |                                          |
+| catastrophe             | ～           | cata = 1. down 2. fully \| astro 星星\| phe |
+|                         |             | catalogue 说                              |
+| calamity                | ～           | c + alarm + ity                          |
+|                         |             |                                          |
+| censorious              | adj 受批判的    | censor （审查员）- censorship 审查              |
+| censure                 | n/v 谴责／批评   |                                          |
+| census                  | n 人口普查      |                                          |
+| consensus               | n 共识一致      | con + sensus 一致                          |
+|                         |             |                                          |
+| cession                 | n 转让 割让     | cess \| cede \| ceed = to go （access）    |
+| succeed                 | 成功 继承       | 走在下面                                     |
+|                         |             | su+ 双写 =  sub                            |
+| cede                    | v 割让        |                                          |
+| recede                  | v 后退        | re - back                                |
+| concede                 | v 妥协让步      | 妥协 \|承认 con 走到一起                         |
+| accede                  | v 加入 同意     | ac + cede                                |
+| precede                 | v 先于        | per                                      |
+| precedent               | n 先例        |                                          |
+| unprecedented           | a 史无前例的     |                                          |
+| intercede               | v 说情 调停     | inter                                    |
+| secede                  | v 脱离        | se                                       |
+| antecede                | v 先行 超越     | ante 之前 anti 反                           |
+|                         |             |                                          |
+|                         |             |                                          |
+|                         |             |                                          |
 
