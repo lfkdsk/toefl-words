@@ -122,3 +122,118 @@
 |                         |             |                                          |
 |                         |             |                                          |
 
+## 5.3 
+
+| Word             | Means             | Usage                                    |
+| ---------------- | ----------------- | ---------------------------------------- |
+| chastise         | vt 严惩惩罚           | punish \| ise 动词后缀 \| cha st 插死他 =-=     |
+| chasten          | ～                 | chast == cast =》 pure （加强使之变得干净）\| cast 扔 throw |
+| chaste           | a 纯洁的             | 本意                                       |
+| caste            | n 阶级              | 种族阶级 尤指印度的种姓制度                           |
+| castigate        | v 批评              | ig = ag =》 act 行动使人干净                    |
+|                  |                   |                                          |
+| cast派生           |                   |                                          |
+| overcast         | a 阴天的 忧郁的         | over （上面）                                |
+| downcast         | a 沮丧的             | deject = depress                         |
+| outcast          | a n 被逐出           | 被驱逐的人                                    |
+|                  |                   |                                          |
+| ---------------- |                   |                                          |
+| chauvinism       | n 沙文主义            | 侵略主义／极端爱国／ \| chauvin = 人名 尼古拉沙文         |
+| jingoism         | ～                 |                                          |
+| ····             |                   |                                          |
+| chivalrous       | a 有武士风度的 有绅士风度的   | chivalry <n.> 绅士风度／侠义精神                  |
+|                  |                   | **val = strong** \| val = value          |
+|                  |                   | chi + val + rous                         |
+| cavalier         | n 骑士              |                                          |
+| valiant          | a 骁勇善战的 英勇的       | gal + lant                               |
+| valor            | n 英勇              |                                          |
+| valorous         | a 英勇的             |                                          |
+| val              |                   |                                          |
+| convalesce       | v 逐渐强壮起来 \| 恢复 康复 | esce 逐渐                                  |
+| invalid          | n a 无效的           | in + valid                               |
+|                  |                   |                                          |
+| knight           | n 骑士              | k + night                                |
+| knightly         | a 骑士精神的           |                                          |
+| ·····            |                   |                                          |
+| choreography     | n 舞蹈              | graphy = 写 phonograph                    |
+|                  |                   | chore = sing ／ dance                     |
+| choreographer    | n 舞蹈家             | dancer 伴舞的                               |
+| choir            | n 唱诗班 合唱队         | 和音                                       |
+| chorus           | ～                 |                                          |
+| circumlocution   | n 累赘的陈述 委婉的说法     | circum 绕圈 = circle                       |
+|                  |                   | loc \| log \| loqu = speak               |
+| lo'quacious      | a 话多的             |                                          |
+| obloquy          | n 诽谤的             | ob 加强 ／ 相反 \| calumny 诽谤的                |
+| colloquy         | n 谈话              | col 共同一块                                 |
+| colloquial       | a 口头的             | 白话的 口头的                                  |
+| soliloquy        | n 自言自语            | soli                                     |
+| eloquent         | a 口才好的 雄辩的        |                                          |
+| interlocution    | n 对话              | dialog inter + locution                  |
+| eulogy           | 颂词 悼词             | 都是表扬的话                                   |
+|                  |                   |                                          |
+|                  |                   |                                          |
+
+## 5.4
+
+| Word         | Means                  | Usage                                    |
+| ------------ | ---------------------- | ---------------------------------------- |
+| clairvoyance | n 透视 洞察                | insight 洞察力                              |
+|              |                        | acumen 精明的                               |
+|              |                        | clair = clear \| voy = vis = to see      |
+|              |                        |                                          |
+| clement      | a 和蔼的 仁慈的 天气温和         | clim + ate 气候                            |
+| clemency     | n ～                    |                                          |
+| inclement    | 反义词 = 狂暴的              |                                          |
+| cogitate     | v 思考考虑                 | agitate 煽动                               |
+|              |                        | cogitate on sth                          |
+| deliberate   | v a 故意的 \| 仔细考虑        | on purpose 深思熟虑的 \| 故意去做 \| 仔细考虑         |
+|              |                        | liber = libra  \|  de 加强                 |
+| contemplate  | vt 仔细考虑                | con + temlate \| temple 太阳穴 ／ 庙          |
+| ruminate     | vi ～                   | ruminate on sth                          |
+|              |                        | rumin 想得入迷                               |
+| ponder       | ～                      | ponder that ／vi over                     |
+|              |                        | 后缀 er 动词后缀 \| pond = pound 磅 反复衡量        |
+| ····         |                        |                                          |
+| coltish      | a 轻佻的 不受管束的 小马似的       | ish 像。。。\| colt 小马                       |
+| colt         | n 小马                   |                                          |
+| jolt         | v 撞击震动\|颠簸             | j = journey 旅程 \|                        |
+| molt         | n v 脱毛                 |                                          |
+| dolt         | n 傻瓜                   | dull                                     |
+|              |                        |                                          |
+| combustible  | adj 易燃的                | com + bust + ible                        |
+|              |                        | bust = burst = burn                      |
+| spontaneous  | 自发的                    | spontaneous combustion 自燃                |
+| 燃烧相关衍生       |                        |                                          |
+| inflammable  | a 易怒的 易燃的              | in + flam mable ／ in 加强                  |
+| ignite       | v 点燃                   | = kindle                                 |
+| ···          |                        |                                          |
+| commensurate | a 相称的 相当的              | equal \| equivalent 相等的 等价的              |
+|              |                        | com + ate 形容词 \| mensuer = measure 措施\| 共同的尺寸 |
+|              |                        | commensurate with 与。。。相称                 |
+| 相等           |                        |                                          |
+| tantamount   | ～                      | ～ to 相等的                                 |
+|              |                        | tant （as much as 和 。。。 一样多）+ amount      |
+| congruent    | a 一致的                  | 全等的 （三角形）                                |
+|              |                        | con + gru + ent \| gru = agree           |
+| ···          |                        |                                          |
+|              |                        |                                          |
+| commemorate  | vt 纪念                  | memor = 记忆                               |
+| consumate    | a v 圆满的 完美的 \| 使圆满 使完美 | con + sum + ate                          |
+|              |                        | summit 顶峰 顶点                             |
+| complacent   | a 自满的 得意的              | self satified                            |
+|              |                        | com + plac + ent  = please 满足的           |
+| complaisant  | a 顺从的讨好的               | com + plais + ant                        |
+|              |                        | mulish 固执的                               |
+| ···          |                        |                                          |
+| conciliation | n 安抚安慰                 | comfort                                  |
+| conciliate   | v 安抚～                  | con + cil + iate = call 大家一起说            |
+| reconcile    | v 修复 友谊和谐              | re + concile                             |
+|              |                        | be reconciled with sb。                   |
+| supercilious | a 傲慢的 无理的              | super + cil + ious 在上面喊                  |
+|              |                        |                                          |
+| ···          |                        |                                          |
+| condiment    | n 调味品                  | seasoning 调味品 ／ 加调料                      |
+|              |                        | cond = hide 隐藏 \| abs／cond 潜逃 一起逃        |
+|              |                        | 藏在菜里面的                                   |
+| recondite    | a 深奥的 难懂的              | re 加强 + condite 藏的很深 = 深奥的               |
+
