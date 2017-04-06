@@ -448,3 +448,64 @@
 | lavatory      | n 厕所                   | lav（冲水） at ory 厕所                        |
 |               |                        |                                          |
 
+
+
+## 6.3
+
+| Word            | Means                     | Usage                            |
+| --------------- | ------------------------- | -------------------------------- |
+| demarcate       | v 划分界限                    | de marc ate                      |
+|                 |                           | mark - marc 做记号                  |
+| immaculate      | a 无暇的                     | spotless 非常洁净的 mark              |
+| maculate        | flaw 瑕疵缺点                 |                                  |
+| maculated       | flawless 无暇的              |                                  |
+|                 |                           |                                  |
+| demur           | vi／n 提出异议 反对抗议            |                                  |
+| demure          | a 端庄的 严肃的                 | de + mature 成熟的                  |
+| decry           | v 抗议谴责                    |                                  |
+| descry          | v 看见                      | describe 描述                      |
+| deprecate       | v 抗议                      |                                  |
+| depreciate      | v 贬值                      | appreciate                       |
+|                 |                           |                                  |
+| denunciation    | n 谴责                      | blame                            |
+|                 | pronunciation 发音          |                                  |
+| denounce        | 公开谴责                      | announce 宣布                      |
+|                 |                           | nounce =》 to claim 宣布            |
+| renounce        | 放弃                        |                                  |
+| enunciate       | 说出来 = 阐明                  | e nunci ate                      |
+| articulate      | article 文章                |                                  |
+|                 |                           |                                  |
+| 谴责 反对           |                           | re - against                     |
+| reprove         | ～                         | 举反证                              |
+| reproach        | ～                         | approach 接近                      |
+| reprehend       | ～                         | comprehend 理解                    |
+| reprimand       | ～                         | command                          |
+| rebuke          | ～                         | bu ke 不可                         |
+|                 |                           |                                  |
+| deport          | v 举止 驱逐 （对应两个名词）          | de + port                        |
+| deportment      | n 举止                      |                                  |
+| deportation     | n 驱逐                      | port =》 to carry                 |
+| portable        | 便于携带的                     |                                  |
+| potable         | 可饮用的                      | pot壶                             |
+| disport         | v 嬉戏 雀跃                   | dis port  - sport                |
+|                 |                           |                                  |
+| destitution     | n 穷困 缺乏 贫穷                | paucity                          |
+|                 | stitute 词根 =》 to stand 站立 | st = 站立                          |
+| distitute       | a 底层的                     |                                  |
+| prostitute      | n 妓女                      | pro + stititue                   |
+|                 | prostitution 卖淫           |                                  |
+| restitute       | v 偿还 归还                   | back 往回站                         |
+|                 |                           |                                  |
+| sist = stand 站立 |                           |                                  |
+| subsist         | 维持生活                      | subsist on fish 靠。。。生存 = live on |
+|                 |                           |                                  |
+| impoverish      | v 使赤贫                     | pover = poverity                 |
+|                 | impoverishment            |                                  |
+| penury          | n penny 穷                 | penny 穷的只剩一分钱                    |
+| indigent        | a                         | indigence                        |
+|                 |                           |                                  |
+
+
+
+
+
