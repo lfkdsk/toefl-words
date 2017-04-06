@@ -239,22 +239,81 @@
 
 ## 5.5
 
-| Word       | Means                | Usage                          |
-| ---------- | -------------------- | ------------------------------ |
-| fid        |                      |                                |
-| confid     | v 倾诉 委托 相信           | confident 自信                   |
-|            |                      | fid 表示 to believe              |
-| confidant  | n 信任的人               | and 表示人                        |
-| diffident  | a 不自信的 confident的反义词 | di = dis = not                 |
-| fidelity   | n 忠诚                 |                                |
-| perfidious | a 背信弃义的              | per = away （perjury）           |
-| defy       | v 违抗                 | dis away \| deny 否认            |
-| defiance   | a ～                  |                                |
-| defiant    | n ～                  |                                |
-|            |                      |                                |
-|            |                      |                                |
-| constrict  | v 压缩 限制              | restrict 限制                    |
-|            |                      | strict = strain = 》 tighten 拉近 |
-|            |                      |                                |
-|            |                      |                                |
+| Word             | Means                              | Usage                          |
+| ---------------- | ---------------------------------- | ------------------------------ |
+| fid              |                                    |                                |
+| confid           | v 倾诉 委托 相信                         | confident 自信                   |
+|                  |                                    | fid 表示 to believe              |
+| confidant        | n 信任的人                             | and 表示人                        |
+| diffident        | a 不自信的 confident的反义词               | di = dis = not                 |
+| fidelity         | n 忠诚                               |                                |
+| perfidious       | a 背信弃义的                            | per = away （perjury）           |
+| defy             | v 违抗                               | dis away \| deny 否认            |
+| defiance         | a ～                                |                                |
+| defiant          | n ～                                |                                |
+|                  |                                    |                                |
+| strict \| strain |                                    |                                |
+| constrict        | v 压缩 限制                            | restrict 限制                    |
+|                  |                                    | strict = strain = 》 tighten 拉近 |
+| astrict          | v 束缚 抑制                            | a 加强                           |
+| constrain        | v 关押                               |                                |
+| restrain         | v 抑制 限制                            | restraint n                    |
+|                  |                                    |                                |
+| press            |                                    |                                |
+| compress         | v 压缩                               |                                |
+| oppress          | v 压迫  = compress                   | opp = ob                       |
+| suppress         | v 镇压                               | su + 双写 = sub 向下               |
+| repress          | v 压回去 \| 镇压                        |                                |
+|                  | （和这个的区别是 上面的那个词是正面的）               |                                |
+|                  |                                    |                                |
+|                  |                                    |                                |
+| contiguity       | n 接触 临近                            | adjacent to 邻近的                |
+|                  | contiguity of A & B                | abut on \| adjoin              |
+|                  | tig =》 tact \| tang =》 to touch 接触 |                                |
+| tact             | n 机智圆滑                             | tactic 策略                      |
+| intact           | a 完好无损的                            | undamaged in = not             |
+| tangle           | v 纠缠                               | le = 动作的反复行动                   |
+|                  | ～ entangle 同义词                     |                                |
+| tangible         | a 能触摸得到的                           |                                |
+|                  | in + ～ 反义词                         |                                |
+| contagion        | n 传染                               | con + tag + ion n              |
+|                  | ～ infection                        |                                |
+| contagious       |                                    |                                |
+|                  |                                    |                                |
+| proximity        | v 接近                               | ～ to city                      |
+|                  | approximately 临近 大约                | ity v                          |
+|                  |                                    |                                |
+|                  |                                    |                                |
+| contumacy        | n 拒不服从                             | con + cy                       |
+|                  |                                    | tum 肿胀的 =》 bloated tumor       |
+| contumely        | n 傲慢无礼                             |                                |
+| tumid            | a 肿胀的                              |                                |
+| tumult           | n 骚乱动乱                             |                                |
+|                  |                                    |                                |
+|                  |                                    |                                |
+| conundrum        | n 谜语                               | 可难琢磨 =  conundrum              |
+|                  |                                    | con + un + drum 一起被蒙在鼓里        |
+| puzzle           | ～                                  |                                |
+| enigma           | ～                                  |                                |
+| enigmatic        | a 令人难解的 \| 谜一样的                    | en + ignorant                  |
+|                  |                                    |                                |
+|                  |                                    |                                |
+| convict          | vt 证明有罪                            | vict／vinc = to conquer 征服      |
+|                  |                                    | convict sb of sth              |
+| acquit           | v 证明无罪                             |                                |
+| conviction       | n 有罪 \| 相信（重点）                     | convince 是相信                   |
+|                  |                                    |                                |
+| evict            | v 征服出去 \| 驱逐（从房屋建筑内）               | e +                            |
+| evince           | n 表明                               |                                |
+| invincible       | a 不可战胜的                            | in + vinc + ible               |
+| vanquish         | v 征服 = evict                       | vanqu + ish                    |
+|                  |                                    |                                |
+|                  |                                    |                                |
+| convivial        | a 欢宴的 欢乐的                          | convivial friends 酒肉朋友         |
+|                  |                                    | vivi \| vit= lift \| live      |
+|                  | vitamin 维他命                        | 生动的 vivid                      |
+| vivacious        | a 活泼的                              | acious 很多的 loquacious 话多的      |
+| vivify           | v 使生动 、活泼                          | ify 使                          |
+| vitality         | n 活力                               | vital a 致命的                    |
+| vitalize         | v 使生动 、活泼 \| 激发                    |                                |
 
