@@ -237,3 +237,24 @@
 |              |                        | 藏在菜里面的                                   |
 | recondite    | a 深奥的 难懂的              | re 加强 + condite 藏的很深 = 深奥的               |
 
+## 5.5
+
+| Word       | Means                | Usage                          |
+| ---------- | -------------------- | ------------------------------ |
+| fid        |                      |                                |
+| confid     | v 倾诉 委托 相信           | confident 自信                   |
+|            |                      | fid 表示 to believe              |
+| confidant  | n 信任的人               | and 表示人                        |
+| diffident  | a 不自信的 confident的反义词 | di = dis = not                 |
+| fidelity   | n 忠诚                 |                                |
+| perfidious | a 背信弃义的              | per = away （perjury）           |
+| defy       | v 违抗                 | dis away \| deny 否认            |
+| defiance   | a ～                  |                                |
+| defiant    | n ～                  |                                |
+|            |                      |                                |
+|            |                      |                                |
+| constrict  | v 压缩 限制              | restrict 限制                    |
+|            |                      | strict = strain = 》 tighten 拉近 |
+|            |                      |                                |
+|            |                      |                                |
+
