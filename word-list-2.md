@@ -333,7 +333,7 @@
 |                  |                            |                                  |
 | cosmic           | a 宇宙的                      | cosmic beings                    |
 |                  |                            | cosm =》 universe 宇宙的             |
-| cosmos           | a 宇宙的                      |                                  |
+| cosmos           | n 宇宙                       |                                  |
 | cosmopolitan     | a 国际的 见多识广的 世界性的           | polit（政治） = city 城市              |
 |                  | n 四海为家的人                   |                                  |
 | insular          | a 岛屿的 狭隘的                  | in + sular                       |
