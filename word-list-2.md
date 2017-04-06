@@ -242,7 +242,7 @@
 | Word             | Means                              | Usage                          |
 | ---------------- | ---------------------------------- | ------------------------------ |
 | fid              |                                    |                                |
-| confid           | v 倾诉 委托 相信                         | confident 自信                   |
+| confide          | v 倾诉 委托 相信                         | confident 自信                   |
 |                  |                                    | fid 表示 to believe              |
 | confidant        | n 信任的人                             | and 表示人                        |
 | diffident        | a 不自信的 confident的反义词               | di = dis = not                 |
