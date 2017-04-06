@@ -275,7 +275,7 @@
 | tangle           | v 纠缠                               | le = 动作的反复行动                   |
 |                  | ～ entangle 同义词                     |                                |
 | tangible         | a 能触摸得到的                           |                                |
-|                  | in + ～ 反义词                         |                                |
+|                  | in + ～ 反义词 无形的                     |                                |
 | contagion        | n 传染                               | con + tag + ion n              |
 |                  | ～ infection                        |                                |
 | contagious       |                                    |                                |
@@ -316,4 +316,135 @@
 | vivify           | v 使生动 、活泼                          | ify 使                          |
 | vitality         | n 活力                               | vital a 致命的                    |
 | vitalize         | v 使生动 、活泼 \| 激发                    |                                |
+
+## 6.1
+
+| Word             | Means                      | Usage                            |
+| ---------------- | -------------------------- | -------------------------------- |
+|                  |                            |                                  |
+| corporate        | a 法人的 共同的                  | corpor \| corp 表示 body 身体        |
+| corporation      | n  公司                      |                                  |
+| incorproate      | v 体现 （embody）\| 合并 （由公司来源） | in + ate 结构 v in 取加强的意思          |
+| corpulent        | a 肥胖的 臃肿的                  | pull 拉                           |
+| corporeal        | a 身体的 物体的 有型的              |                                  |
+|                  | intangible 无形的             |                                  |
+| corpse           | n 尸体                       |                                  |
+|                  |                            |                                  |
+|                  |                            |                                  |
+| cosmic           | a 宇宙的                      | cosmic beings                    |
+|                  |                            | cosm =》 universe 宇宙的             |
+| cosmos           | a 宇宙的                      |                                  |
+| cosmopolitan     | a 国际的 见多识广的 世界性的           | polit（政治） = city 城市              |
+|                  | n 四海为家的人                   |                                  |
+| insular          | a 岛屿的 狭隘的                  | in + sular                       |
+|                  |                            |                                  |
+|                  |                            |                                  |
+| craven           | n 懦夫 胆小鬼 a 怯懦的             | cry                              |
+|                  | 同义词 ： timid 、cowardly、     |                                  |
+| cringe           | v 畏缩 害怕 \| 谄媚              |                                  |
+| adulate          | v 谄媚                       |                                  |
+| cavern           | n 洞穴 大山洞                   |                                  |
+|                  |                            |                                  |
+|                  |                            |                                  |
+| fringe           | n 边缘                       | infringe 违背                      |
+|                  |                            |                                  |
+| crusade          | Crusade 十字军东征              | ade 名词后缀 表示集合                    |
+|                  | crusade 表示改革运动             | cross = crus                     |
+| cruc = cross 十字架 |                            |                                  |
+| crucial          | a 至关重要的关键的                 |                                  |
+| crux             | n 关键要点                     |                                  |
+| crucify          | v 是痛苦使折磨                   | ify 使之。。。                        |
+|                  |                            |                                  |
+| curt             | a 简短的                      | cut 切                            |
+| curb             | v 控制 抑制                    | 阻断 cut                           |
+|                  | ～ 反义词 goad 激励 good         |                                  |
+| cynic            | n 犬儒主义者 愤世嫉俗者              | cyn = dog                        |
+| cynical          | a unbelieving 怀疑的／讽刺的      |                                  |
+| cynicism         | n 犬儒主义                     |                                  |
+|                  |                            |                                  |
+|                  |                            |                                  |
+| dearth           | n 缺乏                       | death 死 -》 减少                    |
+|                  | shortage lack              |                                  |
+|                  | dear 物以稀为贵  （dear + th）    |                                  |
+| paucity          | 缺乏                         |                                  |
+| pauper 乞丐穷人      | p p 两个手掌 poverty 贫穷        |                                  |
+| deficiency       | n 缺乏                       |                                  |
+|                  | sufficient - deficient     | sub ／de 向下  和相同词根构词的那么de都表示消极的部分 |
+|                  |                            |                                  |
+| scarcity         | 缺乏                         |                                  |
+| scarce           | 缺乏                         | scar - 缺少                        |
+|                  |                            |                                  |
+| 表示多的词            | 大量的                        |                                  |
+| glut             | ～                          | gluttony 贪吃的 饕餮                  |
+|                  |                            | glu —— ton ——ous                 |
+| plethora         | 过剩的                        |                                  |
+| scad             | 大量的                        |                                  |
+| scar             |                            |                                  |
+|                  |                            |                                  |
+|                  |                            |                                  |
+| debris           | n 碎片                       | de + bris                        |
+|                  |                            | br 和分开有关／出生 = break              |
+|                  | de 1 加强 2 下降 3 砍伐 4 消极的否定的 | space debris 太空垃圾                |
+|                  |                            |                                  |
+|                  |                            |                                  |
+
+## 6.2
+
+| Word          | Means                  | Usage                                    |
+| ------------- | ---------------------- | ---------------------------------------- |
+| decipher      | vt 破译解码                | cipher 密码 \| de + cipher （safe）          |
+| code          | n 代码\|原则\|密码           |                                          |
+| encode        | v 加密                   |                                          |
+| decode        | v 解码                   |                                          |
+|               |                        |                                          |
+| deduct        | vt 扣除                  | de + duct 向下引导 - 扣款                      |
+| deductibles   | 扣除的款项／扣款               | duce／duce  = to lead 引导                  |
+| duct          | n 导管                   |                                          |
+| ab‘duct       | v 远离                   | abduct weman and children 诱拐             |
+| aqueduct      | n 导水管                  | aque 水                                   |
+|               |                        |                                          |
+| conduce       | vi 有助于                 | conduce to = contribute to = be good for 有助于 |
+| seduce        | vt 勾引                  | ～ sb into doing                          |
+| induce        | v 引诱 劝说                |                                          |
+|               |                        |                                          |
+|               |                        |                                          |
+| default       | n 默认值 v 疏忽职责 拖欠        | fault 缺点 错误 de 加强                        |
+|               |                        | fall / false => mistake                  |
+| fall          |                        |                                          |
+| fallible      | a 容易犯错的                |                                          |
+| infallibility | n 一贯正确                 | inerrancy                                |
+| fallacy       | n 谬论                   | a false                                  |
+| falsify       | v 篡改                   |                                          |
+| falsehood     | n 错误 虚假                | hood 名词后缀 childhood                      |
+|               |                        |                                          |
+|               |                        |                                          |
+| deleterious   | a 有害的 有毒的              | baneful 邪恶的有害的                           |
+|               | delete 删除 + rious 删除～～ |                                          |
+| indelible     | a 难以抹去的 不可磨灭的          | in + delete + ible                       |
+| detriment     | a 有害的                  | trim = tree 树 整齐的 整洁的 — rim 系列的          |
+|               |                        |                                          |
+| delineate     | v 描绘 描述（一般都是用手写 用笔画）   | describe 描述                              |
+|               | line 线                 |                                          |
+| depict        | vt 描绘 描画               |                                          |
+| recount       | v 重新清点／讲述              | recount a story                          |
+| relate        | v 与。。有关\| 讲述 （高级词汇）    | relate to                                |
+|               |                        |                                          |
+| delinquency   | n 行为不良 罪行（青少年）         | （junior）juvenile delinquency             |
+|               | linq - link            |                                          |
+| rejuvenate    | v 使。。。年轻 \| 返老还童       |                                          |
+|               |                        |                                          |
+| delirium      | n 精神狂乱 \| 狂喜           | insane                                   |
+| delirious     | a 精神错乱的 诱惑的            | lure 诱惑                                  |
+| demented      | <a> ～ 没精神疯了            | mental                                   |
+| deranged      | v 使。。精神错乱 \| 打乱顺序      | ranged  \| arrange 排序                    |
+|               |                        |                                          |
+| frenzy        | n 疯狂的                  | freak 疯子 —— frenzy                       |
+|               |                        |                                          |
+| deluge        | n 洪水 豪雨 v 泛滥 淹没        | de + lu + ge                             |
+|               |                        | lu \| lau =》 to wash （laundry）洗干         |
+| dilute        | v 稀释                   | di + lu+te                               |
+|               | dilate v 膨胀            |                                          |
+| lavish        | a 大方的 浪费的              | 花钱如流水                                    |
+| lavatory      | n 厕所                   | lav（冲水） at ory 厕所                        |
+|               |                        |                                          |
 
