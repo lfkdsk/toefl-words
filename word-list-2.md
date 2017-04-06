@@ -502,7 +502,10 @@
 | impoverish      | v 使赤贫                     | pover = poverity                 |
 |                 | impoverishment            |                                  |
 | penury          | n penny 穷                 | penny 穷的只剩一分钱                    |
-| indigent        | a                         | indigence                        |
+| indigent        | a 贫穷的                     | indigence                        |
+|                 |                           | dig 是挖 挖的一分钱不剩                   |
+|                 |                           |                                  |
+|                 |                           |                                  |
 |                 |                           |                                  |
 
 
