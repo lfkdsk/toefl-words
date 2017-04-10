@@ -644,14 +644,32 @@
 
 ## 7.1
 
-| word       | means                       | Usage                           |
-| ---------- | --------------------------- | ------------------------------- |
-| drudge     | n 做苦工的人／vi 做苦工／做苦力／vt 强迫做苦工 | d rive                          |
-| toil       | ～ 苦干                        | ～ to do sth                     |
-| fag        | ～ 苦干                        | fag = fact                      |
-|            |                             |                                 |
-| ebullience | n 沸腾 热情洋溢                   | ebullient \| e + bull ient 公牛出来 |
-|            |                             |                                 |
-|            |                             |                                 |
-|            |                             |                                 |
+| word       | means                       | Usage                                    |
+| ---------- | --------------------------- | ---------------------------------------- |
+| drudge     | n 做苦工的人／vi 做苦工／做苦力／vt 强迫做苦工 | d rive                                   |
+| toil       | ～ 苦干                        | ～ to do sth                              |
+| fag        | ～ 苦干                        | fag = fact                               |
+|            |                             |                                          |
+| ebullience | n 沸腾 热情洋溢                   | ebullient \| e + bull ient 公牛出来          |
+|            |                             | boil 沸腾                                  |
+| exultant   | a、兴高采烈的                     | exult v 兴高采烈 be happy                    |
+| exuberant  | a、～                         | ex + uber + ant 茂盛的茁壮成长的 \| ex uper ant 植物向上长 |
+| exhilarate | v、～                         | exhilarating \| hilar =》 glad            |
+|            |                             | hilarous 及其滑稽的 \| hillary                |
+|            |                             |                                          |
+| elicit     | vt 套话／诱出                    | 引诱 lic = lure （lust） delicious           |
+| licit      | a 合法                        | legal                                    |
+| illicit    | a 违法                        | illegal                                  |
+|            |                             |                                          |
+| elope      | vi 私奔 美好的                   | e + lope \| lop 跑                        |
+| gallop     | v （马）飞奔疾驰                   |                                          |
+| eminent    | a 显赫的                       | famous outstanding distinguish           |
+|            |                             | min = 突出 moun =》 mountain                |
+| prominent  | ～                           |                                          |
+| preeminent | 显赫的                         |                                          |
+| imminent   | 十分有名的                       | imminent war 即将来临的灾难                     |
+| renowned   | 有名的、显赫的                     | name = now                               |
+| emollient  | a 柔软的 n 润肤剂                 | 易莫脸的  moll =》 soft                       |
+|            |                             |                                          |
+|            |                             |                                          |
 
