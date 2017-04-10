@@ -670,6 +670,71 @@
 | imminent   | 十分有名的                       | imminent war 即将来临的灾难                     |
 | renowned   | 有名的、显赫的                     | name = now                               |
 | emollient  | a 柔软的 n 润肤剂                 | 易莫脸的  moll =》 soft                       |
+| mollify    | v 软化                        | 使之。。。                                    |
+| mollusk    | n 软体动物                      |                                          |
+| demolish   | v 拆迁法案／摧毁                   | devastate ／ destory                      |
+|            |                             | waste =》 vast 废墟 = 摧毁                    |
+| enervate   | v 削弱／虚弱                     | 向外 e + nerv + ate                        |
+|            |                             | nerve 神经                                 |
+| debilitate | v off 能力下降 虚弱               | ablility 能力                              |
+| enfeeble   | v 使。。虚弱                     | feeble 虚弱的 = feel                        |
+|            |                             |                                          |
+| ensue      | vi 跟着发生 \| 继起               | a fight ensue after a fire discussion    |
+|            |                             | su ／ sequ =》 follow                      |
+| sue        | v charge 起诉                 | 。。。 for 起诉上诉                             |
+| hue        | n 色调                        |                                          |
+| cue        | n／v 暗指、暗示                   | core 包含、                                 |
+| rue        | v 后悔                        | regret                                   |
 |            |                             |                                          |
 |            |                             |                                          |
 
+## 7.2
+
+| Words         | Means              | Usage                                |
+| ------------- | ------------------ | ------------------------------------ |
+| entomology    | n 昆虫学              | ology n 学科 \| tom =》 cut 切割 （atom）   |
+|               |                    | insect 昆虫                            |
+| anatomy       | n 解剖学              | an + atom y 一个原子                     |
+| epitome       | n 摘要／缩影            | abstract \| sect 切割                  |
+| bisect        | v 分成两份             |                                      |
+| dissect       | v 解剖               | apart                                |
+| intersect     | v 横切／横断            |                                      |
+| epidemic      | a 传染的 n 流行病 传染病    | epi = on ／ among ／ behind 上面中间最后     |
+|               |                    | demo = 》 people                      |
+| prologue      | n 开场白              |                                      |
+| epilogue      | n 结束语              |                                      |
+| epigraph      | n 碑文墓志铭            |                                      |
+| endemic       | a 地方性的             |                                      |
+| pandemic      | a 全国流行的            | pan =》 all 全部                        |
+| demographic   | a 人口统计学的           |                                      |
+|               |                    |                                      |
+| equilibrium   | n 平衡               | equil + ibrium                       |
+|               |                    | libr =》 Libra 天秤座                    |
+| equa =》 相等    |                    |                                      |
+| equitable     | a 平衡的／公众的          |                                      |
+| equable       | a （性格）性格很平均／温和的稳重的 |                                      |
+| iniquity      | a 不公正邪恶            | iniquity iniquity                    |
+|               |                    |                                      |
+| disinterested | a 公正的              | uninterested 不感兴趣的                   |
+|               |                    |                                      |
+| etch          | v 蚀刻               | itch 抓痒                              |
+|               |                    | eat = erase                          |
+| efface        | v 抹去               | eff = ex 表面擦掉                        |
+|               |                    |                                      |
+| face词根的       |                    |                                      |
+| deface        | v 损伤。。的表面          | to damage 。。。                        |
+| facet         | n 面                | et／let／ette 小                        |
+| facetious     | a 好开玩笑的／           | facetious 不恰当的玩笑                     |
+| facade        | n 正面（建筑物           | ade 集合 efface                        |
+|               |                    |                                      |
+| euphoria      | n 精神欢快             | eu = good \| phor =》 fer =》 to carry |
+| defer         | v delay 推迟延期       |                                      |
+| confer        | v conference 协商商谈  |                                      |
+| glee          | n 高兴               | glad                                 |
+| bliss         | n 极乐 美满            | bless                                |
+| mirth         | v 欢笑               | miracle 奇迹 birth                     |
+| ecstasy       | n 狂喜               | st = 站立 ec + st asy 突然爆发／不再沉默        |
+|               |                    |                                      |
+|               |                    |                                      |
+
+ 
