@@ -508,7 +508,150 @@
 |                 |                           |                                  |
 |                 |                           |                                  |
 
+## 6.4
+
+| Word                  | Means                      | Usage                                    |
+| --------------------- | -------------------------- | ---------------------------------------- |
+| deteriorate           | v 恶化                       | worsen、exacerbate、                       |
+|                       | de+terior+ate              | terror=恐怖                                |
+| deter                 | v 阻碍／阻吓                    | de + ter                                 |
+| deterrent             | n 阻碍物                      | 反义词 goad 刺激                              |
+| aggravate             | 加重 恶化                      | ag + gravate                             |
+| 改善提高                  |                            |                                          |
+| improve               |                            |                                          |
+| ameliorate            | vt 改善提高                    | am （否定）iorate \| male = evil             |
+| dexterous             | a 灵巧的 惯用右手的                | dextr =》 right                           |
+| ambidextrous          | 双手灵活的                      |                                          |
+| dexterity             | 敏捷 灵巧                      |                                          |
+|                       |                            |                                          |
+|                       |                            |                                          |
+| diatribe              | n 抨击 谩骂                    | ～ eulogy 颂词 \| dia （between／across）+ tribe |
+|                       |                            | tribe （three）多人之间谩骂                      |
+| 表扬的词                  |                            |                                          |
+| accolade              | n 荣誉                       | ac + col （collar 领子）+ lade               |
+| acclaim               | v 喝彩称赞                     | ac + claim                               |
+| commend               | v 公开称赞                     | com + mend （使用推荐去记）                      |
+| eulogize              | v 歌颂                       |                                          |
+| exalt                 | v 高歌 颂扬                    | ex + alt                                 |
+| extol                 | v 赞美                       | ex + tol （tall）                          |
+| compliment            | n／v 赞扬                     |                                          |
+| complement            |                            |                                          |
+|                       |                            |                                          |
+| laud                  | 赞美                         | lord 上帝 \| loud                          |
+| dilapidated           | a 要坍塌似的 很破旧的               | d + lapid+ated                           |
+|                       |                            | lapid =》 stone                           |
+| lapidary              | n 加工宝石的人                   | ary 人或者是低点                               |
+| derelict              | n 弃置的 破旧的                  | relics 遗迹                                |
+| decrepit              | a 老弱的                      | de + cre + pit \| create = cre 无法创造      |
+|                       |                            |                                          |
+| relinquish            | 放弃                         |                                          |
+|                       |                            |                                          |
+|                       |                            |                                          |
+| discompose            | v 不安                       | compose  组成／撰写／镇定                        |
+| composition／composure |                            |                                          |
+| decompose             | 分解（组成的反义词）                 |                                          |
+| pose=》to put 摆放       |                            |                                          |
+| v                     |                            |                                          |
+| expose                | 暴露                         |                                          |
+| propose               | 提出\|求婚                     |                                          |
+| dispose               | 处理 \| 陈列                   | dis 分开                                   |
+| impose                | 强加于                        | im／in 在上面\| 进入\|相反 \|加强                  |
+| depose                | 罢免 免职                      |                                          |
+| repose                | 休息睡觉                       |                                          |
+| transpose             | 跨越 \| 该换位置                 |                                          |
+| juxapose              | 并排放置                       | jux =》 junction conjuction（连词）           |
+| superimpose           | 叠加                         |                                          |
+|                       |                            |                                          |
+|                       |                            |                                          |
+| disillusion           | v 醒悟 幻灭 对。。。大失所望           | illusion 幻觉的 fantasy                     |
+|                       |                            | delusion 幻觉                              |
+| disappoint            | ～                          |                                          |
+|                       |                            |                                          |
+|                       | lus ／lud =》to play 表演 \| 玩 |                                          |
+| prelude               | 前奏                         | lude                                     |
+| interlude             | 间奏                         |                                          |
+| postlude              | 尾声                         | post 最后                                  |
+| allude                | v 暗指 提及                    | al ～ to                                  |
+| collude               | v 勾结                       | ～ with                                   |
+| elude                 | v 躲避 回避                    | ent \| elusive 晦涩难懂的                     |
+| delude                | v 欺骗                       | de + lude =  deceive                     |
+|                       |                            |                                          |
+|                       |                            |                                          |
+|                       |                            |                                          |
+|                       |                            |                                          |
+|                       |                            |                                          |
 
 
 
+## 6.5 
+
+| Word           | Means                   | Usage                              |
+| -------------- | ----------------------- | ---------------------------------- |
+| disposed       | a 使 有 。。。倾向             | be ～ to                            |
+| disposition    | n 性情性格                  |                                    |
+| indisposition  | n 不舒服 ／ 小病              |                                    |
+| predisposition | n 倾向                    | pre 向                              |
+|                |                         |                                    |
+| inclination    | 倾向／喜欢                   |                                    |
+| orientation    | n 开学／新生入学／朝向=》          |                                    |
+| religious      | 宗教倾向                    |                                    |
+| political      | 政治倾向                    |                                    |
+| sexual         | 性取向                     |                                    |
+|                |                         |                                    |
+| disseminate    | v 散步散开                  | dis 分开 + semin（ seed 种子） + ate     |
+| seminar        | 研讨会                     |                                    |
+| semen          | 精液 =》 seed              |                                    |
+| inseminate     | 使 。。 受孕受精               | in（加强） + semin + ate               |
+| artificial     | 人造的                     | artificial + inseminate            |
+|                |                         |                                    |
+| distraught     | a 不安的 分心的               |                                    |
+| distract       | v 分散注意力 分心              |                                    |
+|                | 词根：tract=》to draw 拉     |                                    |
+| contract       | v 收缩拉近                  |                                    |
+| detract        | v 拉下来（贬低诋毁）             |                                    |
+| retract        | v 拉回来／收回                |                                    |
+| protract       | v 延长                    | ～ your life                        |
+| extract        | v 拔出／取出／摘录摘要            |                                    |
+| subtract       | v 减去 ／减法                |                                    |
+| intractable    | a 不能拉的／难以约束的            | in = not                           |
+|                |                         |                                    |
+| divestiture    | n 剥夺／脱衣服                |                                    |
+| divest         | 1. ～ sb of sth 剥夺 ／ 脱衣服 | vest n 背心 \| v 赋予  \| di =》 离开     |
+| deprive        | 剥夺                      |                                    |
+| transvestite   | n 易装癖者                  |                                    |
+| travesty       | n 扭曲 拙劣的模仿              |                                    |
+| strip          | v／n 剥去衣服／剥夺             | strip off                          |
+| don            | 穿                       |                                    |
+| doff           | 脱                       |                                    |
+|                |                         |                                    |
+| dormant        | a 睡眠状态 静止的              | dormant volcano 死火山                |
+|                |                         | dorm（dormitory 宿舍） + ant           |
+| repose         |                         |                                    |
+| slumber        | n／v 睡眠                  | sleep                              |
+| hibernate      | v 冬眠                    | hiber + nate／hibernation／high bear |
+|                |                         |                                    |
+| drab           | a 土褐色的 单调的              | crab dr = dry                      |
+| monotonous     |                         | mono 单一一个                          |
+| dreary         | 单调的                     | dr + e + ary = dream               |
+| humdrum        |                         | hum + drum（打鼓）                     |
+| tedious        | 冗长乏味的                   | ted = extend 延伸                    |
+|                |                         |                                    |
+|                |                         |                                    |
+|                |                         |                                    |
+|                |                         |                                    |
+
+
+
+## 7.1
+
+| word       | means                       | Usage                           |
+| ---------- | --------------------------- | ------------------------------- |
+| drudge     | n 做苦工的人／vi 做苦工／做苦力／vt 强迫做苦工 | d rive                          |
+| toil       | ～ 苦干                        | ～ to do sth                     |
+| fag        | ～ 苦干                        | fag = fact                      |
+|            |                             |                                 |
+| ebullience | n 沸腾 热情洋溢                   | ebullient \| e + bull ient 公牛出来 |
+|            |                             |                                 |
+|            |                             |                                 |
+|            |                             |                                 |
 
