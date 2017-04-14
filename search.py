@@ -57,6 +57,7 @@ def search_word():
         exit()
     elif word == 'up-':
         os.system('./update.sh')
+        return
 
     for word_item in word_dict:
         if word_item[0] != None and word_item[0].startswith(word):
