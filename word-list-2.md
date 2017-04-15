@@ -7,7 +7,8 @@
 | phonograph  | n 留声机        | graph = write 写           |
 | symphony    | n 交响乐        | sym 相同                    |
 |             |              |                           |
-|             |              |                           |
+| percolation | n 过滤         | per col ation             |
+| threshold   | n 入口         |                           |
 
 
 

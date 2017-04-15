@@ -3,6 +3,7 @@
 import os
 import sys
 
+# search file
 def scan_files(directory, prefix=None, postfix=None):
     files_list = []
 
@@ -19,7 +20,7 @@ def scan_files(directory, prefix=None, postfix=None):
 
     return files_list
 
-
+# read files and parser
 def read_files(directory_list):
     for file_name in directory_list:
         for line in open(file_name):
@@ -30,6 +31,7 @@ def read_files(directory_list):
         pass
 
 
+# parser every line
 def parser_line(line):
     index = line.find('|')
     global last_item
@@ -42,6 +44,7 @@ def parser_line(line):
     elif index == 0:
         last_item[1] += '\n' + line[index:].replace('|',' ')
 
+# search element
 def search_word():
 
     sys.stdout.write(">>>  ")
@@ -57,6 +60,10 @@ def search_word():
         exit()
     elif word == 'up-':
         os.system('./update.sh')
+        return
+    elif word == 're-':
+        # re - index 
+        initial_search()
         return
     elif word == 'cl-':
         os.system('clear')
@@ -83,6 +90,16 @@ def search_word():
         print '################################################'
     return
 
+# initial and read file
+def initial_search():
+    word_dict = []
+    last_item = []
+
+    file_list = scan_files("./", None, ".md")[1:] # remove ReadMe.md
+
+    read_files(file_list)
+    pass
+
 global word_dict
 
 global last_item
@@ -90,11 +107,7 @@ global last_item
 word_dict = []
 last_item = []
 
-input_list = []
-
-file_list = scan_files("./", None, ".md")[1:]
-
-read_files(file_list)
+initial_search()
 
 while True:
     search_word()
