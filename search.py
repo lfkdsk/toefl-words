@@ -56,7 +56,7 @@ def search_word():
 
     if word == '':
         return
-    elif word == 'fk':
+    elif word == 'fk-':
         exit()
     elif word == 'up-':
         os.system('./update.sh')
