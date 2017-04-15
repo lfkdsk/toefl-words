@@ -60,7 +60,8 @@ def search_word():
         return
     elif word == 'cl-':
         os.system('clear')
-        return    
+        return        
+
     for word_item in word_dict:
         if word_item[0] != None and word_item[0].startswith(word):
             word_list.append(word_item)
@@ -72,8 +73,13 @@ def search_word():
     else:
         print 'no real word'
     for item in word_list:
+        # word
+        print '\033[1;31m'
         print item[0]
+        print '\033[0m'
+        # expr
         print item[1].encode('utf-8')
+        # block
         print '################################################'
     return
 
@@ -83,6 +89,8 @@ global last_item
 
 word_dict = []
 last_item = []
+
+input_list = []
 
 file_list = scan_files("./", None, ".md")[1:]
 
