@@ -37,7 +37,7 @@ def parser_line(line):
     global last_item
     if index > 0:
         word = line[:index]
-        if not line.startswith('Word'):               
+        if not line.startswith('Word') and not line.startswith('word'):               
             word_item = [word, line[index:].replace('|',' ')]
             last_item = word_item
             word_dict.append(word_item)
@@ -108,6 +108,12 @@ word_dict = []
 last_item = []
 
 initial_search()
+
+print '\033[1;31m'
+print '----------------------------------------'
+print '-------------学习TOEFL!-----------------'
+print '----------------------------------------'
+print '\033[0m'
 
 while True:
     search_word()
