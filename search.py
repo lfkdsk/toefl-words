@@ -25,9 +25,9 @@ def read_files(directory_list):
     for file_name in directory_list:
         for line in open(file_name):
             if '##' not in line and '----' not in line and line.startswith('|'):
-                line = line.replace(' ', '')
-                if not line.startswith('||||'):
-                    parser_line(line[1:])
+                temp = line.replace(' ', '')
+                if not temp.startswith('||||'):
+                    parser_line(line[1:].lstrip().rstrip())
         pass
 
 

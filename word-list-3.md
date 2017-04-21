@@ -199,11 +199,12 @@
 | austere              | a 简朴的、严肃的     | stern 严格的                                |
 |                      |               |                                          |
 | authentic            | a 真品的、真正的、可信的 | author                                   |
-| veracious            |               |                                          |
+| veracious            | a 真实的         | vera                                     |
+| bogus                | a 假的          |                                          |
+| phony                | 虚假的           | 虚假的声音                                    |
+| fake                 | a 假的          |                                          |
 |                      |               |                                          |
-|                      |               |                                          |
-|                      |               |                                          |
-|                      |               |                                          |
+| avariscious          | a 贪婪的         | av =》 greed                              |
 |                      |               |                                          |
 |                      |               |                                          |
 |                      |               |                                          |
