@@ -3,6 +3,8 @@
 
 其中 `search.py ` 是对笔记的搜索程序，会自动 Parser 笔记表格里的单词和解释数据，搜索时通过比较前缀进行搜索，会返回对应的单词和同前缀的单词。
 
+`tran_word_to_xml.py` 能把 markdown 转换成 `有道词典 ` 支持的 xml 格式文件。
+
 ### Command
 
 * up-

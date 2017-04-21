@@ -205,6 +205,41 @@
 | fake                 | a 假的          |                                          |
 |                      |               |                                          |
 | avariscious          | a 贪婪的         | av =》 greed                              |
+| avid=》               | 1贪婪的 2 狂热的    |                                          |
+| voracious            | a 贪吃的         | vor = eat                                |
+| covet                | vt 贪求         |                                          |
+| covert               | a 隐蔽的         | c + overt                                |
+| overt                | a 公开的         | c + overt                                |
+| herbivore            | a 素食的         | ivore 和吃的有关                              |
+| carnivore            | a 肉食的         | ivore 和吃的有关                              |
+| divorce              | n v 离婚        | ivore 和吃的有关                              |
+|                      |               |                                          |
+| vert／vers            | to turn 转变    |                                          |
+| avert                | v  转移，避免      | vert                                     |
+| convert              | vt 转变         | vert                                     |
+| advert               | v 广告          | vert                                     |
+| advertisement        | v 广告          | vert                                     |
+| revert               | v 回到原处        | vert                                     |
+| divert               | v 转开转向        | vert ／ di = a part                       |
+| pervert              | n／v 使。。。堕落    | throught = per                           |
+| controvert           | v 反驳          | contro = 对立面                             |
+| subvert              | v 颠覆          | 颠覆 、 破坏                                  |
+| diversion            | n 转向          |                                          |
+| adverse              | a 相反的         | ad + ver                                 |
+| reverse              | n v 倒车        | re + ver                                 |
+| diverse              | a 各种各样的       | di + verse                               |
+| diversity            | n 多样性         | di （a part） +ver                         |
+| vertex               | n 顶点          | ver                                      |
+| vortex               | n 旋／漩涡        | ver                                      |
+| adversary            | n 敌人对手        | ad （反） + vers + ary                      |
+| adversity            | n 逆境          | ad + ver                                 |
+| controversy          | n 反驳          | contro + ver                             |
+| subversive           | a 颠覆性的        | sub                                      |
+| extrovert            | n 外向的         | ex                                       |
+| introvert            | n 内向的         | in                                       |
+| versatile            | a 多才多艺的       | versati + ile 易于 。。。的                    |
+| vertigo              | n 眩晕的         | 转移                                       |
+|                      |               |                                          |
 |                      |               |                                          |
 |                      |               |                                          |
 |                      |               |                                          |

@@ -7,9 +7,9 @@ from xml.dom.minidom import Document
 def read_file(file_name):
     for line in open(file_name):
         if '##' not in line and '----' not in line and line.startswith('|'):
-            line = line.replace(' ', '')
-            if not line.startswith('||||'):
-                parser_line(line[1:])
+            temp = line.replace(' ', '')
+            if not temp.startswith('||||'):
+                parser_line(line[1:].lstrip().rstrip())
     pass
 
 def check_invalid(file_name):
@@ -39,8 +39,8 @@ def initial_search():
     check_invalid(sys.argv[1])
 
     contentText = ""
-    doc = Document()  #创建DOM文档对象
-    word_book = doc.createElement('wordbook') #创建根元素
+    doc = Document()  # 创建DOM文档对象
+    word_book = doc.createElement('wordbook') # 创建根元素
     doc.appendChild(word_book)
 
     time_text = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
@@ -66,6 +66,7 @@ def initial_search():
     out_file.close()
        
     print '\033[1;31m'
+    print 'word count : ' + str(len(word_dict))
     print 'output file success! xml file in ' + out_file.name
     print '\033[0m'
 
