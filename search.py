@@ -72,11 +72,12 @@ def search_word():
     for word_item in word_dict:
         if word_item[0] != None and word_item[0].startswith(word):
             word_list.append(word_item)
-            if word_item[0] == word:
+            if word_item[0].lstrip().rstrip() == word:
                 real_word = word
 
     if len(real_word) != 0:
         print real_word
+        os.system('say ' + real_word);
     else:
         print 'no real word'
     for item in word_list:
