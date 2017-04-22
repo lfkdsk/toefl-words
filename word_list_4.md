@@ -3,7 +3,7 @@
 | charcoal  | n 木炭、 | char 烧焦 + coal 煤 =》 碳 |
 | sloth     | n 懒惰  | slow                  |
 | libra     | n 天秤座 |                       |
-|           |       |                       |
+| deciduous | a 脱落的 | de + cid + ous        |
 |           |       |                       |
 |           |       |                       |
 |           |       |                       |

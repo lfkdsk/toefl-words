@@ -92,6 +92,9 @@ def search_word():
 
 # initial and read file
 def initial_search():
+    global word_dict
+    global last_item
+
     word_dict = []
     last_item = []
 
