@@ -77,7 +77,6 @@ def search_word():
 
     if len(real_word) != 0:
         print real_word
-        os.system('say ' + real_word);
     else:
         print 'no real word'
     for item in word_list:
@@ -89,6 +88,8 @@ def search_word():
         print item[1].encode('utf-8')
         # block
         print '################################################'
+    if len(real_word) != 0:
+        os.system('say ' + real_word);
     return
 
 # initial and read file
