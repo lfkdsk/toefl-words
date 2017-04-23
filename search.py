@@ -2,6 +2,19 @@
 
 import os
 import sys
+import readline
+
+
+histfile = open('search_history.histfile', 'w')
+try:
+    readline.read_history_file('search_history.histfile')
+    # default history len is -1 (infinite), which may grow unruly
+    readline.set_history_length(1000)
+except IOError:
+    pass
+import atexit
+
+atexit.register(readline.write_history_file, histfile)
 
 # search file
 def scan_files(directory, prefix=None, postfix=None):
