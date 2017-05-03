@@ -98,13 +98,34 @@
 | gleam             | n、v 微弱的光                     | glimmer、gleam mm 微弱的光                    |
 | glitter           | n 、v 晶莹剔透的闪闪发光               | glitter 、glint                           |
 | glint             | n 、v 晶莹剔透的闪闪发光               | glitter 、glint                           |
-| glow              | nv 发强光                       | glow + glare                             |
+| glow              | nv 发柔和的光／伴随发热                | glow + glare                             |
 | glare             | nv 发强光                       | glow + glare                             |
 | glisten           | nv 水光                        | 能被听到的光                                   |
-| glossy            |                              |                                          |
-| glide             |                              |                                          |
+| glossy            | a 头发有光泽的                     | ss —— 发丝                                 |
+| glide             | v 滑行                         | slide—— 话题 sl —— 下滑                      |
+|                   |                              |                                          |
+| br=》              | 分开分歧、出生                      |                                          |
+| bl=》              | 颜色                           |                                          |
+| cr／scr=》          | 手上的动作                        |                                          |
+| dw=》              | down                         |                                          |
+| fl=》              | fly 飞 、 bend 完下来             |                                          |
+| gl=》              | 发光                           |                                          |
+| gru=》             | 心情不爽                         |                                          |
+| sl=》              | 下滑                           |                                          |
+| st=》              | 站立 stand 不懂                  |                                          |
+| sp=》              | 发散、产生                        |                                          |
+| sno=》             | 鼻子                           |                                          |
+| wr=》              | twist 转动、拧巴                  |                                          |
+|                   |                              |                                          |
+| blight            | n/v 枯萎、枯萎病                   | b light 不见了光                             |
+| bleak             | a  阴冷的、沮丧的                   | black 和黑色有关的                             |
+| bland             | a 平淡的无味的                     | blank                                    |
+| bleach            | v 漂白                         | blank                                    |
+| blanch            | v 变白                         | blank                                    |
+| blunder           | n v 愚蠢的错误、犯错、跌跌撞撞的走          | blind 盲人                                 |
+|                   |                              |                                          |
 |                   |                              |                                          |
 |                   |                              |                                          |
 |                   |                              |                                          |
 
-8.2-9.1-9.2
+### 8.2-9.1-9.2
