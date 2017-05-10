@@ -83,10 +83,14 @@
 | judicial     | a 法院的、法官的、司法的        | judicial produce 司法过程                    |
 | judicature   | n 法院                 | legislature 立法机构                         |
 |              |                      |                                          |
-| shrewd       | a                    |                                          |
-| astute       | a                    |                                          |
-| canny        | a                    |                                          |
+| shrewd       | a 精明的                | shrewdness n 精明                          |
+| astute       | a 精明的、明智的            | tutor （家教）—— tut 、 as 加强                 |
+| canny        | a                    | cunning 狡猾的                              |
 |              |                      |                                          |
+| kempt        | a 衣着整洁的、梳理好的         | keep 保持 - keep kempt 保持整洁、comb 木梳 == kempt |
+| dapper       | a 衣冠楚楚的              | upper                                    |
+| dowdy        | a 邋遢的                | down —— 衣着乡下的                            |
 |              |                      |                                          |
+| kernel       | n 核心                 | core 核心 essence 精髓                       |
 |              |                      |                                          |
 
