@@ -51,11 +51,41 @@
 | asperse      | v 散布（坏话）             | a 动作加强 中上非常                              |
 | sparse       | a 稀疏的                | sparse 散开的                               |
 |              |                      |                                          |
+| dense        | a 浓密的                |                                          |
 |              |                      |                                          |
+| inveterate   | a 根深蒂固的、成瘾的          | smoker／drugger  in 加强（veter）veteran 老兵老手 |
+| novice       | n 新手                 | nov —— new                               |
+| ingrained    | a 根深的、成瘾的            | in + grain 骨 骨子里                         |
+| addictive    | a 成瘾的                |                                          |
 |              |                      |                                          |
+| invidious    | a 招人嫉妒的、招人烦的         | in + vid + ious vis = vid =》 to see （不像看你的） |
+| provident    | a 有远见的               | pro + vid 向前看的                           |
+| envisage     | v 展望                 | en 加强                                    |
+| envision     | v 展望                 | vis                                      |
 |              |                      |                                          |
+| jeopardy     | n 危险                 | jeopardize hap =》 haphazard 偶然的 ard 不好的词意 、 jeep 吉普有危险 |
+| peril        | n 危险                 | per through 贯穿 il —— ill 生病 —— 一直生病      |
 |              |                      |                                          |
+| jocular      | a 诙谐的、幽默的            | joc —— joke 玩笑 —— 正向情感                   |
+| jocularity   | n 风趣幽默               |                                          |
+| jocund       | a 开心的、愉快的            | und 形容词后缀                                |
+| jocose       | a 诙谐的                | ose —— 什么东西很多的 == acious、笑话多             |
 |              |                      |                                          |
+| facetious    | a 乱开玩笑的              |                                          |
+|              |                      |                                          |
+| jovial       | a 快活的、愉快的            | jo - joy 生活愉快                            |
+| jolly        | a 愉快的、               |                                          |
+| jubilant     | a 欢快的                | jubilation                               |
+| jubilee      | n 周年庆祝               | silver 、 golden 、 diamond  jubilee （金婚 50、银婚25、钻石 60） |
+|              |                      |                                          |
+| judicious    | a 明智的                | judic == judge（判断—— 明智）、                 |
+| adjudicate   | v 判决、仲裁              | ad + judic + ate                         |
+| judicial     | a 法院的、法官的、司法的        | judicial produce 司法过程                    |
+| judicature   | n 法院                 | legislature 立法机构                         |
+|              |                      |                                          |
+| shrewd       | a                    |                                          |
+| astute       | a                    |                                          |
+| canny        | a                    |                                          |
 |              |                      |                                          |
 |              |                      |                                          |
 |              |                      |                                          |
