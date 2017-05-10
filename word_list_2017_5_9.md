@@ -60,7 +60,7 @@
 | bump               | n 大团、大块、肿块                              | bump into                                |
 | dump               | v 倾倒                                    | d + ump （垃圾山）                            |
 | plump              | a 丰满的（褒义词）                              | p + lump （大团） —— 胖 plump                 |
-| slump              | v 崎岖不平的、暴跌                              | slip s + lump                            |
+| slump              | v骤降、暴跌                                  | slip s + lump                            |
 | plummet            | v 突然暴跌                                  |                                          |
 | clump              | v 一簇、抱起来                                | c —— con                                 |
 | rumple             | v 弄皱                                    | le 动作的反复 —— 复返不平                         |
@@ -130,7 +130,7 @@
 | ineffaceable       | a 无法擦除的                                 | in + efface + able                       |
 |                    |                                         |                                          |
 | infatuation        | n 迷恋着迷                                  | 痴迷 be infatuated with 痴迷于。。。             |
-| infatuate          | v 加强结合                                  | fatu —— silly                            |
+| infatuate          | v 使之沉迷                                  | fatu —— silly                            |
 | fatuous            | a 愚蠢的、愚昧的                               | fat —— 胖——愚蠢                             |
 | fatuity            | n 愚蠢昏庸                                  |                                          |
 | have a crush on sb | 迷恋。。。                                   |                                          |
