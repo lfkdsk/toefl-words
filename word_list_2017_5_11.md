@@ -188,9 +188,9 @@
 |                  |                        |                                          |
 | nocturnal        | a 夜晚的、夜间的              | diurnal 白天的、noct——night                  |
 | noctilucent      | a 夜光的                  | luc 和光亮有关                                |
-| equinox          | n 春分、秋分                | nox                                      |
+| equinox          | n 春分、秋分                | nox equ 重点在平分                            |
 | nonchalance      | n 冷淡                   | aloof 远离的 offish non- 否定的概念、chalance 机会  |
-| phelgmatic       | a 冷淡的冷漠的               | phelg （痰）flag 衰退减弱                       |
+| phlegmatic       | a 冷淡的冷漠的               | phleg （痰）flag 衰退减弱                       |
 | nondescript      | a 无可名状的、难以区别的、无特征的     | non + descript                           |
 | srcipt／sribe=》   | to write               |                                          |
 |                  |                        |                                          |
