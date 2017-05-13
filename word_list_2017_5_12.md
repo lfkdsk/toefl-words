@@ -112,7 +112,25 @@
 | overwrought   | a 紧张过度的                       | wr 扭曲                                    |
 | overture      | n 开场曲、序曲                      | tune 音调                                  |
 | overstate     | v （陈述的说） 夸张、言过其实              | state ： v 陈述                             |
-| override      |                               |                                          |
+| override      | v 1 破坏、蹂躏 2 藐视不理睬             | 骑到上面、rediculous                          |
+| overhaul      | v 大修、彻底检查                     | over + haul 吊起来修                         |
+|               |                               |                                          |
+| petition      | n v 请愿（对于统治者）                 | beg 、 pet 通过宠物请愿                         |
+| pet =》        | to seek                       | compete =》 竞争 、共同寻求                      |
+| centripetal   | a 向心力                         | ～ force 向心力 、 centri 中心                  |
+| propitiate    | v 安抚、安慰                       | pro ／ piti 向前去寻求                         |
+|               |                               |                                          |
+| entreat       | v 恳求、祈求                       | en 加强 + treat 请客                         |
+| plead         | v 祈求                          | （please）plead with sb 、 pled （英式过去式）     |
+| beseech       | v 恳求                          | be 加强 seech - seek 寻求                    |
+| importune     | vt 纠缠                         | import 进港 —— 在三请求入港                      |
+|               |                               |                                          |
+| petrify       | v 石化、惊呆                       | petr =》 rock 岩石、petroleum                |
+| petrology     | n 岩石学                         | logy xxx学科                               |
+|               |                               |                                          |
+| philanthropic |                               |                                          |
+|               |                               |                                          |
+|               |                               |                                          |
 |               |                               |                                          |
 |               |                               |                                          |
 |               |                               |                                          |
