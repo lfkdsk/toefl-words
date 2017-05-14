@@ -128,7 +128,7 @@
 | petrify       | v 石化、惊呆                       | petr =》 rock 岩石、petroleum                |
 | petrology     | n 岩石学                         | logy xxx学科                               |
 |               |                               |                                          |
-| philanthropic |                               |                                          |
+|               |                               |                                          |
 |               |                               |                                          |
 |               |                               |                                          |
 |               |                               |                                          |
