@@ -85,6 +85,36 @@
 | blear          | a 不清楚的                       | - clear                                  |
 |                |                              |                                          |
 | smug           | a 洋洋得意的、得意的                  | smile                                    |
+| smuggle        | n 走私                         | smug —— 得意、smoke + drag 烟和毒品             |
+| snug           | a 温暖而舒适的                     |                                          |
+| smog           | n 烟雾                         | smoke + fog                              |
+|                |                              |                                          |
+| complacent     | a 自满的                        |                                          |
+| elated         | a 自满的、得意的                    |                                          |
+|                |                              |                                          |
+| snub           | v n 冷落、怠慢、不理睬                |                                          |
+| snob           | n 势利小人                       | noble 贵族 - 攀比、势力                         |
+| snobbish       | n 冷落、不理睬                     |                                          |
+| solidarity     | n 团结                         |                                          |
+|                |                              |                                          |
+| sol=》          | alone                        |                                          |
+| console        | v 安慰                         | = conciliate 一起打个电话安慰                    |
+| solace         | n v 安慰                       |                                          |
+| inconsolable   | a 极度悲伤地                      | = 无法安慰的                                  |
+| disconsolate   | a 孤独的、郁闷的                    | = 没人安慰的                                  |
+|                |                              |                                          |
+| somber         | a 阴森的、灰暗的                    |                                          |
+|                |                              |                                          |
+|                |                              |                                          |
+|                |                              |                                          |
+|                |                              |                                          |
+|                |                              |                                          |
+|                |                              |                                          |
+|                |                              |                                          |
+|                |                              |                                          |
+|                |                              |                                          |
+|                |                              |                                          |
+|                |                              |                                          |
 |                |                              |                                          |
 |                |                              |                                          |
 |                |                              |                                          |
