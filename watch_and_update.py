@@ -36,7 +36,7 @@ def do_action():
     else:
         is_starting = False
 
-
+# dirty date
 os.system('echo ' + str(time.strftime('%H:%M:%S', time.localtime(time.time()))) + ' > update.fuck')
 os.system('git add -A')
 os.system('git commit -m \" update by watch \"')
