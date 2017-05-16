@@ -11,34 +11,33 @@
 import os, sys, time
 from fsevents import Observer, Stream
 
-def main():
-    is_starting = False
-    more_action = False
+
+is_starting = False
+more_action = False
     
-    def callback(fileEvent):
-        more_action = True
-        if is_starting:
-            return
-        else:
-            do_action()
+def callback(fileEvent):
+    more_action = True
+    if is_starting:
+        return
+    elif fileEvent.mask == 2:
+        do_action()
 
-    def do_action():
-        is_starting = True
-        more_action = False
-        os.system('git add -A')
-        os.system('git commit -m \" update by watch system \" ')
-        print time.strftime('%H:%M:%S', time.localtime(time.time()))
-        print '----------------------------------------------------'
-        time.sleep(2)
-        if (more_action):
-            do_action()
-        else:
-            is_starting = False
+def do_action():
+    is_starting = True
+    more_action = False
 
-    observer = Observer()
-    stream = Stream(callback, '.', file_events=True)
-    observer.schedule(stream)
-    observer.start()
+    os.system('git add -A')
+    os.system('git commit --amend --reuse-message=HEAD')
+    print time.strftime('%H:%M:%S', time.localtime(time.time()))
+    print '----------------------------------------------------'
+    time.sleep(20)
+    if (more_action):
+        do_action()
+    else:
+        is_starting = False
 
-if __name__ == '__main__':
-    main()
+observer = Observer()
+stream = Stream(callback, '.', file_events=True)
+observer.schedule(stream)
+observer.start()
+
