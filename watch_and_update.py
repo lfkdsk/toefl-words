@@ -37,6 +37,7 @@ def do_action():
         is_starting = False
 
 
+os.system('echo > update.fuck')
 os.system('git add -A')
 os.system('git commit -m \" update by watch \"')
 observer = Observer()
