@@ -110,8 +110,37 @@
 | son=》          | sound声音                      |                                          |
 | consonance     | n 和谐一致                       | con + son 共同的声音 —— 和谐                    |
 | dissonance     | n 不和谐、不一致                    | dis + son 、 concord 、discord             |
-| resonance      | n                            | re - back 回来的声音                          |
-| resound        | v                            |                                          |
+| resonance      | n 回想共鸣                       | re - back 回来的声音                          |
+| resound        | v 回荡                         | ~ through                                |
+|                |                              |                                          |
+| soporific      | a 催眠的、n 安眠药                  | so + pore + =》 fic 催眠                    |
+| sordid         | a 肮脏的、下流的 = dirty            | soridid joke、sore did                    |
+| squalid        | a 肮脏的、下流的                    | pristine — 纯洁的、远古的                       |
+| filthy         | a 肮脏的                        | filter 过滤                                |
+|                |                              |                                          |
+| sovereignty    | n 主权                         | sovereign 君主 - 主权 、 reign 管理             |
+| spat           | n 口角                         | spit 吐出——吐口水                             |
+| spate          | n 大水、大洪水、2 缺乏                | spout                                    |
+|                |                              |                                          |
+| altercate      | 口角                           | c 争吵                                     |
+| squabble       | 口角                           | s = 增强 + quarrel 争吵 +                    |
+| wrangle        | 口角                           | wr 扭曲 —— 两个人拧巴                           |
+|                |                              |                                          |
+| bicker         | v 口角、争吵                      | （由于琐事）、bicker with sb about sth 、 beak （鸟嘴啄） |
+| fray           | v （摩擦） 磨破磨损 n 争吵             | friction —— 摩擦力                          |
+| affray         | v 争吵（斗殴）                     | a = 加强                                   |
+|                |                              |                                          |
+| sporadic       | a 零星的、偶发的                    | sporadic actions 零星的 、spot （点） -  radi =》 send out + |
+| chronic        | a 长期的                        | chronic disease 慢性病                      |
+| radiant        | a 发光的、魅力四射的                  | lackluster 无光的                           |
+| radioactive    | a 放射性的                       | active —— 积极                             |
+| irradiate      | vt 照明照亮                      | ir 加强 illuminate                         |
+|                |                              |                                          |
+| squash         | v 镇压、压制                      | quell 、 subjugate 镇压、 quash - quell      |
+|                |                              |                                          |
+|                |                              |                                          |
+|                |                              |                                          |
+|                |                              |                                          |
 |                |                              |                                          |
 |                |                              |                                          |
 |                |                              |                                          |
