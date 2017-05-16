@@ -30,7 +30,7 @@ def do_action():
     os.system('git commit --amend --reuse-message=HEAD')
     print time.strftime('%H:%M:%S', time.localtime(time.time()))
     print '----------------------------------------------------'
-    time.sleep(20)
+    time.sleep(30)
     if (more_action):
         do_action()
     else:
