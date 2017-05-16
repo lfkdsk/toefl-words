@@ -103,15 +103,15 @@
 | inconsolable   | a 极度悲伤地                      | = 无法安慰的                                  |
 | disconsolate   | a 孤独的、郁闷的                    | = 没人安慰的                                  |
 |                |                              |                                          |
-| somber         | a 阴森的、灰暗的                    |                                          |
+| somber         | a 阴森的、灰暗的                    | umber =》 shadow 影子 生活在阴影之下               |
+| adumbrate      | v 预示                         | umbr =》 影子 、 foreshadow = 隐约预示           |
 |                |                              |                                          |
-|                |                              |                                          |
-|                |                              |                                          |
-|                |                              |                                          |
-|                |                              |                                          |
-|                |                              |                                          |
-|                |                              |                                          |
-|                |                              |                                          |
+| sonata         | n 奏鸣曲                        |                                          |
+| son=》          | sound声音                      |                                          |
+| consonance     | n 和谐一致                       | con + son 共同的声音 —— 和谐                    |
+| dissonance     | n 不和谐、不一致                    | dis + son 、 concord 、discord             |
+| resonance      | n                            | re - back 回来的声音                          |
+| resound        | v                            |                                          |
 |                |                              |                                          |
 |                |                              |                                          |
 |                |                              |                                          |

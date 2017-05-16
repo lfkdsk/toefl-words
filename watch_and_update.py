@@ -36,6 +36,9 @@ def do_action():
     else:
         is_starting = False
 
+
+os.system('git add -A')
+os.system('git commit -m \" update by watch \"')
 observer = Observer()
 stream = Stream(callback, '.', file_events=True)
 observer.schedule(stream)
