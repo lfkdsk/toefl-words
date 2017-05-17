@@ -78,12 +78,17 @@
 | turbid      | a 浑浊的（液体）           | turb                                     |
 | limpid      | a 清澈、透明的            | liquid 液体、清澈的                            |
 |             |                     |                                          |
+| ubiquitous  | a 到处存在的、无处不在的       | unique                                   |
+| unctuous    | a 油似的、油脂的           | unc =》 oil、油嘴滑舌的叔叔                       |
+| unc=》       | oil                 |                                          |
+| unguent     | n 油膏（镇痛）            |                                          |
+| oily        | a 油腻的               |                                          |
+| greasy      | a 油脂的、油似的           | greas 润滑剂、润滑油                            |
+| lubricant   | n 润滑剂               |                                          |
 |             |                     |                                          |
-|             |                     |                                          |
-|             |                     |                                          |
-|             |                     |                                          |
-|             |                     |                                          |
-|             |                     |                                          |
+| underdog    | n 失败者               | bully 仗势欺人者                              |
+| under=》     | 1 下面 2 少、不足         |                                          |
+| under       |                     |                                          |
 |             |                     |                                          |
 |             |                     |                                          |
 |             |                     |                                          |
