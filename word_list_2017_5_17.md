@@ -154,7 +154,7 @@
 | deviant      | a 异常的、背离常规的                    |                                          |
 | devious      | a  （路径）迂回的、曲折的                 | devi 迂回的、曲折的                             |
 | pervious     | a 可渗透的可穿透的                     | per - through 贯穿、vi = via、穿过一条路、impervious |
-| trivia       | n 絮语、不重要的琐碎的                   | tri + via                                |
+| trivia       | n 絮语、不重要的琐碎的                   | tri + via、tri —— three 三条路的交口处           |
 |              |                                |                                          |
 | vigilant     | a 警惕着的，警醒的                     | vig =》 lively 生动的  vigor 精力、活力           |
 | invigorate   | v 使之有活力                        | in + vig                                 |
