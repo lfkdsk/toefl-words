@@ -25,7 +25,7 @@
 | withstand   | v 顶住                                    | 往后站                                      |
 | withhold    | v 承受、经得起                                | with + hold                              |
 |             |                                         |                                          |
-| xennophobia | n 仇外、惧外                                 | phobia 恐惧症 、 xeno  =》  foreign 此外 、 xenophile（phile 爱） —— 亲外者 |
+| xenophobia  | n 仇外、惧外                                 | phobia 恐惧症 、 xeno  =》  foreign 此外 、 xenophile（phile 爱） —— 亲外者 |
 | xenophile   | n 亲外者                                   | phile 爱）                                 |
 | yoke        | n v 束缚、支配                               | yolk 蛋黄 —— 不要                            |
 |             |                                         |                                          |
