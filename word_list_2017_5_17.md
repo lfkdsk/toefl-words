@@ -143,7 +143,7 @@
 | verbal       | a 口头的                          | verb =》 word 单词、说话有关                     |
 | verbose      | a 累赘的                          | verb —— 说话有关 、 话多的                       |
 | verboten     | a 禁止的                          | ten —— 十诫                                |
-| proverb      | n 言语                           | 之前说的                                     |
+| proverb      | n 谚语                           | 之前说的                                     |
 |              |                                |                                          |
 | viability    | n 生存能力                         |                                          |
 | viable       | a 有望成功的、 切实可行的 2 （人）可行的、能独立生存的 | feasible 可行的                             |
