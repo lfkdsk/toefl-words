@@ -170,10 +170,4 @@
 |              |                                |                                          |
 | void         | a 空的、无效的                       | vo =》 vac、van 空的无效的、 null and void       |
 | devoid       | a 缺乏的、没有的                      | de + 加强、devoid of                        |
-|              |                                |                                          |
-|              |                                |                                          |
-|              |                                |                                          |
-|              |                                |                                          |
-|              |                                |                                          |
-|              |                                |                                          |
 

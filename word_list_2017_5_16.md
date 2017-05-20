@@ -209,9 +209,3 @@
 | chronometer    | n 计时器                        | meter 测量                                 |
 | chronology     | n 年代学                        |                                          |
 |                |                              |                                          |
-|                |                              |                                          |
-|                |                              |                                          |
-|                |                              |                                          |
-|                |                              |                                          |
-|                |                              |                                          |
-
